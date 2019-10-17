@@ -1,0 +1,42 @@
+body, html{
+    background-color: #0d7af3;
+    font-family: 'Poppins', sans-serif;
+    touch-action: manipulation;
+}
+
+body {
+    overflow: hidden;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.justify-content-start{
+    justify-content: start;
+}
+
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.align-items-start{
+    align-items: start;
+}
+
+.m-10{
+    margin: 10px;
+}
+

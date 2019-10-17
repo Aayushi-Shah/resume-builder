@@ -1,0 +1,52 @@
+
+
+.content-height{
+    height: 100vh;
+    margin-left: 4%;
+}
+
+.content-header{
+    width: 37%;
+    color: #fff;
+    font-size: 32px;
+    text-align: left;
+    padding-bottom: 2%;
+    line-height: 2.7rem;
+}
+
+.content-sub-header{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+}
+
+.content-sub-sub-header{
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+}
+
+.content-button-header{
+    width: 30%;
+    padding-bottom: 2%;
+}
+
+.content-button{
+    width: 14rem;
+    background-color:#000;
+    border: 0%;
+    border-radius: 1.5rem;
+    padding: 0.7rem 0.4rem;
+}
+
+.content-button-pencil-image{
+    height: 1.5rem;
+    text-align: center;
+    margin: 7%;
+}
+
+.content-button-text{
+   color: #fff;
+}
