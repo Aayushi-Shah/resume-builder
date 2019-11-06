@@ -4,9 +4,9 @@ body, html{
     touch-action: manipulation;
 }
 
-body {
+/* body {
     overflow: hidden;
-}
+} */
 
 .d-flex{
     display: flex;
@@ -26,6 +26,10 @@ body {
 
 .justify-content-between{
     justify-content: space-between;
+}
+
+.justify-content-around{
+    justify-content: space-around;
 }
 
 .align-items-center{
